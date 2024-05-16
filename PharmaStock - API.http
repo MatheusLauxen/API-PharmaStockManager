@@ -1,0 +1,6 @@
+@PharmaStock___API_HostAddress = http://localhost:5287
+
+GET {{PharmaStock___API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

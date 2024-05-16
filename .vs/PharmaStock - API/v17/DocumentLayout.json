@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|c:\\users\\matheus.lauxen\\documents\\projects\\pharmastock\\pharmastock - api\\service\\registromovimentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|solutionrelative:service\\registromovimentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|c:\\users\\matheus.lauxen\\documents\\projects\\pharmastock\\pharmastock - api\\service\\produtonotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|solutionrelative:service\\produtonotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|c:\\users\\matheus.lauxen\\documents\\projects\\pharmastock\\pharmastock - api\\controllers\\produtonotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|solutionrelative:controllers\\produtonotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|c:\\users\\matheus.lauxen\\documents\\projects\\pharmastock\\pharmastock - api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|c:\\users\\matheus.lauxen\\documents\\projects\\pharmastock\\pharmastock - api\\dto\\produtonota\\produtonotacriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|solutionrelative:dto\\produtonota\\produtonotacriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|c:\\users\\matheus.lauxen\\documents\\projects\\pharmastock\\pharmastock - api\\service\\interface\\iprodutonotainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|solutionrelative:service\\interface\\iprodutonotainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|c:\\users\\matheus.lauxen\\documents\\projects\\pharmastock\\pharmastock - api\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|solutionrelative:data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|c:\\users\\matheus.lauxen\\documents\\projects\\pharmastock\\pharmastock - api\\models\\produtonotamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|solutionrelative:models\\produtonotamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|c:\\users\\matheus.lauxen\\documents\\projects\\pharmastock\\pharmastock - api\\models\\notafiscalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|solutionrelative:models\\notafiscalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|c:\\users\\matheus.lauxen\\documents\\projects\\pharmastock\\pharmastock - api\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2282CFA7-3386-49CA-8534-F6515DAD4960}|PharmaStock - API.csproj|solutionrelative:models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroMovimentoService.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Service\\RegistroMovimentoService.cs",
+              "RelativeDocumentMoniker": "Service\\RegistroMovimentoService.cs",
+              "ToolTip": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Service\\RegistroMovimentoService.cs",
+              "RelativeToolTip": "Service\\RegistroMovimentoService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:06:00.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoNotaController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Controllers\\ProdutoNotaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutoNotaController.cs",
+              "ToolTip": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Controllers\\ProdutoNotaController.cs",
+              "RelativeToolTip": "Controllers\\ProdutoNotaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:52:18.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:51:46.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Data\\BancoContext.cs",
+              "RelativeToolTip": "Data\\BancoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:46:40.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoNotaService.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Service\\ProdutoNotaService.cs",
+              "RelativeDocumentMoniker": "Service\\ProdutoNotaService.cs",
+              "ToolTip": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Service\\ProdutoNotaService.cs",
+              "RelativeToolTip": "Service\\ProdutoNotaService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:44:17.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoNotaCriacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Dto\\ProdutoNota\\ProdutoNotaCriacaoDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ProdutoNota\\ProdutoNotaCriacaoDto.cs",
+              "ToolTip": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Dto\\ProdutoNota\\ProdutoNotaCriacaoDto.cs",
+              "RelativeToolTip": "Dto\\ProdutoNota\\ProdutoNotaCriacaoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:40:33.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProdutoNotaInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Service\\Interface\\IProdutoNotaInterface.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IProdutoNotaInterface.cs",
+              "ToolTip": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Service\\Interface\\IProdutoNotaInterface.cs",
+              "RelativeToolTip": "Service\\Interface\\IProdutoNotaInterface.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:38:26.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Models\\ProdutoModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProdutoModel.cs",
+              "ToolTip": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Models\\ProdutoModel.cs",
+              "RelativeToolTip": "Models\\ProdutoModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:32:29.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotaFiscalModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Models\\NotaFiscalModel.cs",
+              "RelativeDocumentMoniker": "Models\\NotaFiscalModel.cs",
+              "ToolTip": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Models\\NotaFiscalModel.cs",
+              "RelativeToolTip": "Models\\NotaFiscalModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:32:04.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoNotaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Models\\ProdutoNotaModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProdutoNotaModel.cs",
+              "ToolTip": "C:\\Users\\Matheus.lauxen\\Documents\\Projects\\PharmaStock\\PharmaStock - API\\Models\\ProdutoNotaModel.cs",
+              "RelativeToolTip": "Models\\ProdutoNotaModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:28:26.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
